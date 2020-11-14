@@ -1,4 +1,4 @@
-package br.com.alura.forum;
+package br.com.delaine.musica;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -7,7 +7,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-public class ForumApplicationTests {
+public class MusicaApplicationTests {
 
 	@Test
 	public void contextLoads() {
